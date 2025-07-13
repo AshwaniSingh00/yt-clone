@@ -14,8 +14,8 @@ This is just a visual copy of the YouTube homepage. It uses **only HTML and CSS*
 
 ## 📸 See It
 
-*(Add your screenshot here)*
-`![Screenshot of YouTube Layout](images/youtube-screenshot.png)`
+**
+![Screenshot of YouTube Layout](./pic.png)
 
 To see it, just open the `index.html` file in your web browser.
 
